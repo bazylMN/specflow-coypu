@@ -1,0 +1,8 @@
+.vs/
+NUnitReports
+NUnitTestResult
+TestReportSpecFlow
+packages
+specflow-coypu/bin
+specflow-coypu/obj
+*.exe
