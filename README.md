@@ -29,7 +29,7 @@
 
 ### Initial
 * clone repository
-* open 'Restore nuGrtPackages' and install packages
+* open 'Restore nuGetPackages' and install packages
 * in 'Properties' for chromedriver.exe, geckodriver.exe and IEDriverServer.exe change 'Copy to Output Directory' to 'Copy always'
 
 ### Customise SpecFlow tests
